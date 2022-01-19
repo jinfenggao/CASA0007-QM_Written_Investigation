@@ -1,4 +1,4 @@
-ID,Lattitude,Longtitude,BuildDate,Area,Households,floors,Min_price,Max_price,Avg_price,Score
+ID,Latitude, Longtitude,Build_Date,Area,Households,Floors,Min_price,Max_price,Avg_price,Score
 2766,37.68160372,127.0565917,2000-6,139,492,42,60100,62000,61000,4.3
 5860,37.6792898,127.0570207,2001-5,105,468,32,48600,52200,51000,4.1
 15564,37.67688187,127.0580753,2005-2,86,57,26,36000,46000,40500,4.8
